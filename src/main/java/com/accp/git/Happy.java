@@ -11,6 +11,8 @@ package com.accp.git;
  * 修改备注：
  * @version
  */
-public interface Happy {
-
+public class Happy {
+	public static void main(String[] args) {
+		System.out.println("Test....");
+	}
 }
